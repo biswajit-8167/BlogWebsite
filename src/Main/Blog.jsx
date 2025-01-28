@@ -11,7 +11,7 @@ import BlogNav from '../Components/blog/BlogNav'
 import Nav from '../Components/blog/Nav'
 
 function Blog() {
-   const [isVisible, setIsVisible] = useState(false);
+  //  const [isVisible, setIsVisible] = useState(false);
 
    const user = [
       {
